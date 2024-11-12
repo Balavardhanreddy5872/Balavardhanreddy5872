@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balavardhan Reddy</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="right"> <img src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="balavardhanreddy5872" height:"50%" width:"50%" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balavardhanreddy5872" alt="balavardhanreddy5872" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS, NextJS, Data Science**
