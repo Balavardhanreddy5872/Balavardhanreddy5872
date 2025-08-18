@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balavardhanreddy5872" alt="balavardhanreddy5872" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, NextJS, Data Science**
+- 🌱 I’m currently learning *Data Science, Machine Learning, Deep Learning**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 👨‍💻 All of my projects are available at my [website](https://portfolio-delta-one-62.vercel.app)
 
-- 📫 How to reach me **balavardhan.k21@iiits.in**
+- 📫 How to reach me **balavardhanreddy2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
